@@ -11,7 +11,7 @@ $(document).ready(function(){
     //city.unshift("Busan");  => city = ["Busan", "Seoul"];
     console.log(city);
 
-    var myKey = "3f5257d96c30be40deff02e2ed47cc8e";
+    var myKey = "784643bf8763674861592b3e8a4a5120";
 
     var state_icon = "";  //날씨 아이콘의 이름을 초기 변수로 구성(전역변수) - https://erikflowers.github.io/weather-icons/ 싸이트의 날씨 이미지와 매칭되는 클래스명을 담음
 
@@ -102,7 +102,7 @@ $(document).ready(function(){
                     $("#weather li").eq(index).find(".nation").text(nation);
                     $("#weather li").eq(index).find(".wind span").text(wind);
                     $("#weather li").eq(index).find(".humidity span").text(humidity);
-                    $("#weather li").eq(index).find(".cloud span").text(구름); 
+                    $("#weather li").eq(index).find(".cloud span").text(cloud); 
                 }
             });  //ajax 종료
 

@@ -14,4 +14,4 @@
 https://api.openweathermap.org/data/2.5/onecall?lat=33.44&lon=-94.04&exclude=hourly,daily&appid={3f5257d96c30be40deff02e2ed47cc8e}
 
 
-제작 결과물 url : https://leejinheee.github.io/weatherApp/main.html
+제작 결과물 url : https://leejinheee.github.io/weatherApp/index.html  or  https://leejinheee.github.io/weatherApp/
